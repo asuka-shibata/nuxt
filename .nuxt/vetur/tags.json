@@ -1,0 +1,14 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Tab": {
+    "description": "Auto imported from components/Tab.vue"
+  },
+  "LazyTab": {
+    "description": "Auto imported from components/Tab.vue"
+  }
+}
