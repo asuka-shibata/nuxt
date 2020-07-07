@@ -67,7 +67,7 @@
       </div>
     </div>
     <div class="flex flex-wrap mt-4 mb-4 px-4">
-      <h1 class="text-2xl">今日のワンコ</h1>
+      <h1 class="text-2xl">トリミング・手入れ</h1>
     </div>
     <div class="flex flex-wrap px-4">
       <div class="w-40 mb-10 px-1">

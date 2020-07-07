@@ -11,32 +11,35 @@
           class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
         >しつけ・飼い方</nuxt-link>
         <nuxt-link
-          to="/users/sample2"
+          to="/category/trimming"
           class="whitespace-no-wrap text-gray-300 hover:text-black"
         >トリミング・手入れ</nuxt-link>
-        <nuxt-link to="/" class="whitespace-no-wrap p-6 text-gray-300 hover:text-black">性格</nuxt-link>
         <nuxt-link
-          to="/users/sample2"
+          to="/category/character"
+          class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
+        >性格</nuxt-link>
+        <nuxt-link
+          to="/category/food"
           class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
         >食べ物</nuxt-link>
         <nuxt-link
-          to="/users/sample"
+          to="/category/health"
           class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
         >健康・病気</nuxt-link>
         <nuxt-link
-          to="/users/sample"
+          to="/category/insurance"
           class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
         >保険</nuxt-link>
         <nuxt-link
-          to="/users/sample"
+          to="/category/walk"
           class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
         >散歩</nuxt-link>
         <nuxt-link
-          to="/users/sample"
+          to="/category/fashion"
           class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
         >服・グッズ</nuxt-link>
         <nuxt-link
-          to="/users/sample"
+          to="/category/goingOut"
           class="whitespace-no-wrap p-6 text-gray-300 hover:text-black"
         >お出かけ</nuxt-link>
       </div>

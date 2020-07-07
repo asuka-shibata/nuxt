@@ -5,12 +5,6 @@
   "LazyLogo": {
     "description": "Auto imported from components/Logo.vue"
   },
-  "Navi": {
-    "description": "Auto imported from components/Navi.vue"
-  },
-  "LazyNavi": {
-    "description": "Auto imported from components/Navi.vue"
-  },
   "Tab": {
     "description": "Auto imported from components/Tab.vue"
   },

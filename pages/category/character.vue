@@ -67,7 +67,7 @@
       </div>
     </div>
     <div class="flex flex-wrap mt-4 mb-10">
-      <h1 class="text-2xl">しつけ・飼い方</h1>
+      <h1 class="text-2xl">性格</h1>
     </div>
     <div class="flex flex-wrap">
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/3 xl:w-1/4 mb-4 px-1">

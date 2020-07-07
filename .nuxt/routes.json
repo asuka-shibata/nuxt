@@ -1,10 +1,52 @@
 [
   {
+    "name": "category-character",
+    "path": "/category/character",
+    "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/character.vue",
+    "chunkName": "pages/category/character",
+    "_name": "_dedf0c1e"
+  },
+  {
     "name": "category-discipline",
     "path": "/category/discipline",
     "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/discipline.vue",
     "chunkName": "pages/category/discipline",
     "_name": "_45433950"
+  },
+  {
+    "name": "category-fashion",
+    "path": "/category/fashion",
+    "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/fashion.vue",
+    "chunkName": "pages/category/fashion",
+    "_name": "_54b46900"
+  },
+  {
+    "name": "category-food",
+    "path": "/category/food",
+    "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/food.vue",
+    "chunkName": "pages/category/food",
+    "_name": "_630ce946"
+  },
+  {
+    "name": "category-goingOut",
+    "path": "/category/goingOut",
+    "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/goingOut.vue",
+    "chunkName": "pages/category/goingOut",
+    "_name": "_002b9648"
+  },
+  {
+    "name": "category-health",
+    "path": "/category/health",
+    "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/health.vue",
+    "chunkName": "pages/category/health",
+    "_name": "_60cd9c44"
+  },
+  {
+    "name": "category-insurance",
+    "path": "/category/insurance",
+    "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/insurance.vue",
+    "chunkName": "pages/category/insurance",
+    "_name": "_72002522"
   },
   {
     "name": "category-todayPhoto",
@@ -19,6 +61,13 @@
     "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/trimming.vue",
     "chunkName": "pages/category/trimming",
     "_name": "_505937df"
+  },
+  {
+    "name": "category-walk",
+    "path": "/category/walk",
+    "component": "/Users/shibataasuka/nuxt/nuxt/pages/category/walk.vue",
+    "chunkName": "pages/category/walk",
+    "_name": "_5fadc131"
   },
   {
     "name": "index",

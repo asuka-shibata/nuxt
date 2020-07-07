@@ -1,18 +1,11 @@
 <template>
   <div>
-    <Navi />
     <nuxt />
   </div>
 </template>
 
 <script>
-import Navi from "~/components/Navi.vue";
-
-export default {
-  components: {
-    Navi
-  }
-};
+export default {};
 </script>
 <style>
 button {
